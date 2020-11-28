@@ -1,0 +1,2 @@
+C:\Users\Engineer\Desktop\User\personeltakip\Debug\personeltakip.exe
+C:\Users\Engineer\Desktop\User\personeltakip\Debug\personeltakip.pdb

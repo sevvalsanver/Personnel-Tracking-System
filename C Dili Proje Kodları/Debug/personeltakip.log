@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\Engineer\Desktop\User\personeltakip\Kaynak.c(89,16): warning C4013: 'strcmp' tanımsız; int döndüren extern olduğu varsayılıyor
+  personeltakip.vcxproj -> C:\Users\Engineer\Desktop\User\personeltakip\Debug\personeltakip.exe
